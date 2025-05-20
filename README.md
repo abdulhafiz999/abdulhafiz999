@@ -17,8 +17,6 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 
 - 📧 Email: **abdulhafiz99888@gmail.com**  
 - 🐦 X (Twitter): [@Abdul_Hafiz13](https://x.com/Abdul_Hafiz13)  
-- 💻 GitHub: [github.com/Abdul-Hafiz13](https://github.com/Abdul-Hafiz13)
-
 ---
 
 > *"Code with purpose, build with passion."*
