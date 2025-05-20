@@ -1,6 +1,24 @@
--👋 Hi, I’m Abdul_Hafiz
--👀 I’m interested  in Software  Engineering and WEB3
--🌱 I’m currently learning JavaScript
--💞️ I’m looking to collaborate on innovative web development projects, 
-decentralized applications, and open-source contributions.
--📫 How to reach me. You can reach me via abdulhafiz99888@gmail.com
+# 👋 Hi there, I’m Abdul Hafiz
+
+I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong interest in building innovative digital solutions — from modern web applications to decentralized systems.
+
+---
+
+## 🚀 What I’m Into
+
+- 🧠 Exploring **JavaScript**, **Solidity**, and modern web technologies
+- 🌍 Diving deep into **Web3**, **blockchain development**, and smart contracts
+- 🤝 Open to **collaborations** on creative web projects, dApps, and open-source contributions
+- 💼 Always learning, always building — let’s connect and grow together!
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: **abdulhafiz99888@gmail.com**  
+- 🐦 X (Twitter): [@Abdul_Hafiz13](https://x.com/Abdul_Hafiz13)  
+- 💻 GitHub: [github.com/Abdul-Hafiz13](https://github.com/Abdul-Hafiz13)
+
+---
+
+> *"Code with purpose, build with passion."*
