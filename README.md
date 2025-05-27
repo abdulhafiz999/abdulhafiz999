@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Abdul Hafiz
+# 👋 Hello, I’m Abdul Hafiz
 
 I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong interest in building innovative digital solutions — from modern web applications to decentralized systems.
 
@@ -16,7 +16,7 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 ## 📫 Let's Connect
 
 - 📧 Email: **abdulhafiz99888@gmail.com**  
-- 🐦 X (Twitter): [@Abdul_Hafiz13](https://x.com/Abdul_Hafiz13)  
+- 🐦 X (Twitter): [@Abdul_Hafiz13](https://x.com/Abdul_Hafiz13) 
 ---
 
 > *"Code with purpose, build with passion."*
