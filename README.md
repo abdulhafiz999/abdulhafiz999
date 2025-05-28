@@ -16,7 +16,7 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 ## 📫 Let's Connect
 
 <a href="https://x.com/Abdul_Hafiz13" target="blank"><img align="center" src="https://img.icons8.com/color/48/twitter--v1.png"/></a>
-<a href="abdulhafiz99888@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png"/></a>
+<a href="mailto:abdulhafiz99888@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png"/></a>
 
 
 > *"Code with purpose, build with passion."*
