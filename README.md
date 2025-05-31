@@ -19,4 +19,4 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 <a href="mailto:abdulhafiz99888@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png"/></a>
 
 
-> *"Code with purpose, build with passion."*
+> *"Code with purpose, build with passion."* 
