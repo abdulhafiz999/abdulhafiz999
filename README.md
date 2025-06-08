@@ -1,5 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=abdulhafiz999&color=blue)
-
 # 👋 Hi there, I’m Abdul Hafiz
 
 I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong interest in building innovative digital solutions — from modern web applications to decentralized systems.
@@ -22,6 +20,8 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abdulhafiz999&theme=default)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulhafiz999&show_icons=true&count_private=true&theme=tokyonight)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://wa.me/233592764839?text=Hi%20Abdulhafiz%2C%20I%20found%20you%20on%20GitHub%20and%20want%20to%20connect!)
+
 
 
 
