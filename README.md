@@ -1,4 +1,4 @@
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=abdulhafiz999.your-username)
+ ![Visitors](https://count.getloli.com/get/@abdulhafiz999.github-profile?theme=rule34)
 
 # 👋 Hi there, I’m Abdul Hafiz
 
