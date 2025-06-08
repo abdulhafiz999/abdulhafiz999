@@ -1,4 +1,3 @@
- <img src="https://profile-counter.glitch.me/abdulhafiz999/count.svg" />
 
 # 👋 Hi there, I’m Abdul Hafiz
 
