@@ -1,3 +1,5 @@
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=abdulhafiz999.your-username)
+
 # 👋 Hi there, I’m Abdul Hafiz
 
 I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong interest in building innovative digital solutions — from modern web applications to decentralized systems.
