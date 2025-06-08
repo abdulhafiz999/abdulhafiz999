@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=abdulhafiz999&color=blue)
 
 # 👋 Hi there, I’m Abdul Hafiz
 
