@@ -1,4 +1,4 @@
- ![Visitors](https://count.getloli.com/get/@abdulhafiz999.github-profile?theme=rule34)
+ <img src="https://profile-counter.glitch.me/abdulhafiz999/count.svg" />
 
 # 👋 Hi there, I’m Abdul Hafiz
 
