@@ -26,6 +26,7 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
+
 ## 📫 Let's Connect
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://wa.me/233592764839?text=Hi%20Abdulhafiz%2C%20I%20found%20you%20on%20GitHub%20and%20want%20to%20connect!)
 
