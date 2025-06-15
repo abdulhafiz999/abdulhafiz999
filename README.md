@@ -31,7 +31,7 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 
 
 ## 📫 Let's Connect
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://wa.me/233592764839?text=Hi%20Abdulhafiz%2C%20I%20found%20you%20on%20GitHub%20and%20want%20to%20connect!)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://wa.me/233592764839?text=Hi%20Abdulhafiz%2C%20I%20found%20you%20on%20GitHub%20and%20want%20to%20connect.)
 
 <a href="https://x.com/Abdul_Hafiz13" target="blank"><img align="center" src="https://img.icons8.com/color/48/twitter--v1.png"/></a>
 <a href="mailto:abdulhafiz99888@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png"/></a>
