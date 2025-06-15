@@ -24,6 +24,8 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Batch Script](https://img.shields.io/badge/Batch-4B4B4B?style=for-the-badge&logo=windows&logoColor=white)
 
 
 
