@@ -1,5 +1,4 @@
 # 👋 Hi there, I’m Abdul Hafiz
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhafiz999&label=Profile%20views&color=0e75b6&style=flat" alt="shykid1" /> </p>
 
 I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong interest in building innovative digital solutions — from modern web applications to decentralized systems.
 
