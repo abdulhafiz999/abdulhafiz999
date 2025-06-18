@@ -39,7 +39,7 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 <a href="https://x.com/Abdul_Hafiz13" target="blank"><img align="center" src="https://img.icons8.com/color/48/twitter--v1.png"/></a>
 <a href="mailto:abdulhafiz99888@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png"/></a>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iamEtornam&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=abdulhafiz999&theme=default)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulhafiz999&show_icons=true&count_private=true&theme=tokyonight)
 # GitHub Trophies 
 
