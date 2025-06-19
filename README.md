@@ -46,7 +46,7 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdulhafiz999&theme=onedark&column=3&row=2)
 
 
-## Random Dev qoute ✍️
+## Random Dev qoute ✍️ 
 
 > *“When something is important enough, you do it even if the odds are not in your favor.”*
 > ## Elon musk
