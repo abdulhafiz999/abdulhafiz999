@@ -20,7 +20,7 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Alchemy](https://img.shields.io/badge/Alchemy-3B6CF4?style=for-the-badge&logo=alchemy&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-%23E2761B?style=for-the-badge&logo=metamask&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=flat&logo=ethereum&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65c2cb?style=for-the-badge&logo=ipfs&logoColor=white)
 ![RainbowKit](https://img.shields.io/badge/RainbowKit-ff007a?style=for-the-badge&logo=rainbow&logoColor=white)
