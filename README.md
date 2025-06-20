@@ -21,7 +21,7 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Alchemy](https://img.shields.io/badge/Alchemy-3B6CF4?style=for-the-badge&logo=alchemy&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/MetaMask-%23E2761B?style=for-the-badge&logo=metamask&logoColor=white)
-![Ethereum Logo](https://cryptologos.cc/logos/ethereum-eth-logo.png?v=032)
+![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=flat&logo=ethereum&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![OKX](https://img.shields.io/badge/OKX-000000?style=for-the-badge&logo=okx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
