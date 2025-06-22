@@ -23,6 +23,7 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=flat&logo=ethereum&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65c2cb?style=for-the-badge&logo=ipfs&logoColor=white)
+[![OKX Wallet](https://img.shields.io/badge/OKX%20Wallet-0A0A0A?style=for-the-badge&logo=okx&logoColor=white)](https://www.okx.com/web3)
 ![RainbowKit](https://img.shields.io/badge/RainbowKit-ff007a?style=for-the-badge&logo=rainbow&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![OKX](https://img.shields.io/badge/OKX-000000?style=for-the-badge&logo=okx&logoColor=white)
