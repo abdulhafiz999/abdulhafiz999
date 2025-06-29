@@ -51,6 +51,5 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 
 
 ## Random Dev qoute ✍️ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-> *“When something is important enough, you do it even if the odds are not in your favor.”*
-> ## Elon musk
