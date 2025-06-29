@@ -47,7 +47,7 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulhafiz999&show_icons=true&count_private=true&theme=tokyonight)
 # GitHub Trophies 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdulhafiz999&theme=onedark&column=3&row=2)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=standardgalactic&theme=onedark&column=3&row=2)
 
 
 ## Random Dev qoute ✍️ 
