@@ -30,7 +30,7 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 ![IPFS](https://img.shields.io/badge/IPFS-65c2cb?style=for-the-badge&logo=ipfs&logoColor=white)
 [![OKX Wallet](https://img.shields.io/badge/OKX%20Wallet-0A0A0A?style=for-the-badge&logo=okx&logoColor=white)](https://www.okx.com/web3)
 ![RainbowKit](https://img.shields.io/badge/RainbowKit-ff007a?style=for-the-badge&logo=rainbow&logoColor=white)
-[![Thunder Client](https://img.shields.io/badge/Made%20with-Thunder%20Client-orange?style=flat-square)](https://www.thunderclient.com/)
+[<img src="https://www.thunderclient.com/img/logo.png" alt="Thunder Client" width="120"/>](https://www.thunderclient.com/)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![OKX](https://img.shields.io/badge/OKX-000000?style=for-the-badge&logo=okx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
