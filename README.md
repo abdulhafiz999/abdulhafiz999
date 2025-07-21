@@ -11,7 +11,7 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 - 🤝 Open to **collaborations** on creative web projects, dApps, and open-source contributions
 - 💼 Always learning, always building — let’s connect and grow together 
    
----
+--- 
 
 ### 🚀 Tech Stack and tools
   
