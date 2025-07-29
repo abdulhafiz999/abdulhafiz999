@@ -20,7 +20,7 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-[![Cloudinary](https://res.cloudinary.com/demo/image/upload/v1692783823/cloudinary_badge_blue.svg)](https://cloudinary.com/)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0078FF?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
