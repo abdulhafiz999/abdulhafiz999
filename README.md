@@ -24,6 +24,7 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-0078FF?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+[![Nodemailer](https://img.shields.io/badge/Nodemailer-v6.9.11-green?logo=nodemailer)](https://nodemailer.com/about/)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Alchemy](https://img.shields.io/badge/Alchemy-3B6CF4?style=for-the-badge&logo=alchemy&logoColor=white)
