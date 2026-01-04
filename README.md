@@ -1,4 +1,5 @@
 # 👋 Hi there, I’m Abdul Hafiz
+[![committers.top badge](https://user-badge.committers.top/ghana_private/USERNAME.svg)](https://user-badge.committers.top/ghana_private/abdulhafiz999)
 
 I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong interest in building innovative digital solutions — from modern web applications to decentralized systems
 
