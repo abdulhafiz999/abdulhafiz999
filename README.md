@@ -5,7 +5,7 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 ---
  
 ## What I’m Into 
-
+ 
 - 🧠 Exploring **JavaScript**, **Solidity**, **Move**, **React.js, NextJs** and modern web technologies
 - 🌍 Diving deep into **Web3**, **blockchain development**, and smart contracts
 - 🤝 Open to **collaborations** on creative web projects, dApps, and open-source contributions
