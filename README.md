@@ -30,6 +30,7 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Alchemy](https://img.shields.io/badge/Alchemy-3B6CF4?style=for-the-badge&logo=alchemy&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-F6851B?style=for-the-badge&logo=supabase&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=flat&logo=ethereum&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65c2cb?style=for-the-badge&logo=ipfs&logoColor=white)
 [![OKX Wallet](https://img.shields.io/badge/OKX%20Wallet-0A0A0A?style=for-the-badge&logo=okx&logoColor=white)](https://www.okx.com/web3)
