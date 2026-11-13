@@ -1,15 +1,16 @@
- # 👋 Hi there, I’m Abdul Hafiz
+<!--
+# 👋 Hi there, I'm Abdul Hafiz
 
 I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong interest in building innovative digital solutions — from modern web applications to decentralized systems
 
 ---
  
-## What I’m Into 
+## What I'm Into 
  
 - 🧠 Exploring **JavaScript**, **Solidity** , **Move**, **React.js, NextJs** and modern web technologies
 - 🌍 Diving deep into **Web3**, **blockchain development**, and smart contracts
 - 🤝 Open to **collaborations** on creative web projects, dApps, and open-source contributions
-- 💼 Always learning, always building — let’s connect and grow together 
+- 💼 Always learning, always building — let's connect and grow together 
    
 ---
  
@@ -63,4 +64,4 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 
 ## Random Dev qoute ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+-->
