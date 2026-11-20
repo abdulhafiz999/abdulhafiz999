@@ -1,4 +1,4 @@
-<!--
+
 # 👋 Hi there, I'm Abdul Hafiz
 
 I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong interest in building innovative digital solutions — from modern web applications to decentralized systems
@@ -64,4 +64,3 @@ I'm a passionate **Software Engineer** and **Web3 enthusiast** with a strong int
 
 ## Random Dev qoute ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
--->
